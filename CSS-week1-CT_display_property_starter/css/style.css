@@ -26,6 +26,8 @@ img{
 
 p{
     text-align: center;
+    display: inline-block;
+    width: 150px;
 }
 
 div{
