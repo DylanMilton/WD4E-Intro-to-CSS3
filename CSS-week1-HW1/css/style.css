@@ -52,5 +52,9 @@ img{
 }
 
 a{
-  color:rgb(71, 136, 255);
+  color :dodgerblue;
+}
+
+.link{
+  color: blue;
 }
