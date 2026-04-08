@@ -26,12 +26,16 @@ img{
 
 p{
     text-align: center;
-    display: inline-block;
     width: 150px;
 }
 
 div{
-    display: inline-block;  /* Try out block, none, and inline-block as well. */
+    display: inline-block;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
