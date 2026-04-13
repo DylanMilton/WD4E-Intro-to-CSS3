@@ -1,6 +1,6 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
-  background-color: whitesmoke;
+  background-color: white;
 }
 
 /* li{
@@ -16,13 +16,8 @@ header{
   background-color: yellow;
 }
 
-main{
-  background-color: white;
-}
-
 footer{
-  background-color: seagreen;
-  color:white;
+  background-color: gainsboro;
   height: 100px;
   padding: 40px;
 
@@ -37,14 +32,6 @@ h1{
 
 p{
   line-height: 1.2;
-}
-
-a{
-  color: blue;
-}
-
-.link{
-  color: blue;
 }
 
 /* My Changes */
@@ -88,6 +75,7 @@ ul{
 /* Additional Styling */
 
 li a{
+  color: blue;
   text-decoration: none;
 }
 
